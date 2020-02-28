@@ -1,0 +1,7 @@
+prepare data Set0_MM.txt
+seq {1 2 3 6 10 14}
+compare
+seq {2 11 13 14 21 71}
+compare
+q
+y
