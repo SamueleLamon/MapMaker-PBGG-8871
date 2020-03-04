@@ -1,3 +1,6 @@
+#Compare markers 1 2 3 6 10 14
+#Compare markers 2 11 13 14 21 71
+
 prepare data Set0_MM.txt
 sequence {1 2 3 6 10 14}
 compare
