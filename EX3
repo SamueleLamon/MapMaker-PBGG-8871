@@ -1,3 +1,5 @@
+#Pick two markers from each of the two linkage groups and assign the remaining markers
+
 prepare data Set1_MM.txt
 make chromosome chrom1 chrom2
 sequence 10 114
