@@ -1,3 +1,5 @@
+#Generate a genetic map based on the map orders identified in EX6
+
 prepare data Set0_MM.txt
 Seq 1 2 10 6 3 14
 error detection on
