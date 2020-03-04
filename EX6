@@ -1,0 +1,15 @@
+#Validate the marker order identified in EX5 using the 'ripple' command
+
+prepare data Set0_MM.txt
+seq {1 2 3 6 10 14}
+compare
+q
+y
+
+# Get the most probable output
+
+prepare data Set0_MM.txt
+seq 1 2 10 6 3 14
+ripple
+q
+y
