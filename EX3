@@ -1,0 +1,10 @@
+prepare data Set1_MM.txt
+make chromosome chrom1 chrom2
+sequence 10 114
+anchor chrom1
+sequence 18 259
+anchor chrom2
+seq all
+assign
+q
+y
