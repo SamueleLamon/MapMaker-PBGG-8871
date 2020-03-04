@@ -1,3 +1,6 @@
+#Seq 1 2 3 6 10 14
+#Determine markers orders using "compare", "order" and "try"
+
 prepare data Set0_MM.txt
 seq {1 2 3 6 10 14}
 compare
