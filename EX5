@@ -1,0 +1,9 @@
+prepare data Set0_MM.txt
+seq {1 2 3 6 10 14}
+compare
+triple error detection on
+order
+sequence order1
+try other1
+q
+y
